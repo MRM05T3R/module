@@ -4,6 +4,6 @@ $ pkg install git
 
 $ git clone https://github.com/MRM05T3R/module
 
-$ cd termodule 
+$ cd module 
 
-$ cat module.txt
+$ cat modulle.txt
